@@ -1,0 +1,8 @@
+REQUIREMENTS-
+1-pandas
+2-numpy 
+3-spacy
+4-scikit-learn
+  TfidfVectorizer
+  LogisticRegression
+5-streamlit
